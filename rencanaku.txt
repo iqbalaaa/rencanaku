@@ -1,0 +1,4 @@
+Rencana ku untuk kedepannya 
+-Belajar Ajax di laravel
+-Belajar laravel + liveware
+-Belajar ReactJS
